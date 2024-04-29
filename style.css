@@ -1,0 +1,12 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+#myButton{
+    font-size: 5em;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+#myLabel{
+    font-size: 5em;
+}
